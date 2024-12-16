@@ -46,5 +46,6 @@
 #include "diona/_diona.dme"
 #include "simplangs/simplangs.dme"
 #include "loc_rus_sintlaws/_loc_rus_sintlaws.dme"
+#include "loc_rus_antag/_loc_rus_antag.dme"
 
 #include "../packs/sierra-tweaks/_pack.dm"
