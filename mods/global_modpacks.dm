@@ -45,6 +45,6 @@
 #include "chemtweaks/_chemtweaks.dme"
 #include "diona/_diona.dme"
 #include "simplangs/simplangs.dme"
-#include "loc_rus_sintlaws/_loc_rus_sintlaws.dm"
+#include "loc_rus_sintlaws/_loc_rus_sintlaws.dme"
 
 #include "../packs/sierra-tweaks/_pack.dm"
